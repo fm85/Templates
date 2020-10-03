@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 # -*- coding: utf-8 -*-
 #
-#  Vorlage.py
+#  PythonTemplate.py
 #  
 #  Copyright (C) 2020 by GBS St. Gallen, Inc. All rights reserved.
 #  Released under the therms of the GNU General Public License version 3
